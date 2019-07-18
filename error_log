@@ -1,0 +1,32 @@
+[11-Jun-2018 14:10:49 UTC] PHP Fatal error:  Undefined class constant 'ESTADO_URL_INCORRECTA' in /home/escuderiaservici/public_html/webcalidad/modelos/invitacion.php on line 51
+[14-Jun-2018 20:11:12 UTC] PHP Fatal error:  Undefined class constant 'ESTADO_URL_INCORRECTA' in /home/escuderiaservici/public_html/webcalidad/modelos/invitacion.php on line 51
+[19-Jul-2018 20:32:11 UTC] PHP Fatal error:  Undefined class constant 'ESTADO_URL_INCORRECTA' in /home/escuderiaservici/public_html/webcalidad/modelos/invitacion.php on line 51
+[01-Aug-2018 00:01:44 UTC] PHP Fatal error:  Undefined class constant 'ESTADO_URL_INCORRECTA' in /home/escuderiaservici/public_html/webcalidad/modelos/subasta-empresa.php on line 162
+[16-Aug-2018 22:12:31 UTC] PHP Fatal error:  Undefined class constant 'ESTADO_URL_INCORRECTA' in /home/escuderiaservici/public_html/webcalidad/modelos/invitacion.php on line 51
+[16-Aug-2018 22:12:41 UTC] PHP Fatal error:  Undefined class constant 'ESTADO_URL_INCORRECTA' in /home/escuderiaservici/public_html/webcalidad/modelos/invitacion.php on line 51
+[29-Aug-2018 16:49:01 UTC] PHP Fatal error:  Undefined class constant 'ESTADO_URL_INCORRECTA' in /home/escuderiaservici/public_html/webcalidad/modelos/subasta-empresa.php on line 162
+[29-Aug-2018 16:49:12 UTC] PHP Fatal error:  Undefined class constant 'ESTADO_URL_INCORRECTA' in /home/escuderiaservici/public_html/webcalidad/modelos/subasta-empresa.php on line 162
+[29-Aug-2018 16:49:16 UTC] PHP Fatal error:  Undefined class constant 'ESTADO_URL_INCORRECTA' in /home/escuderiaservici/public_html/webcalidad/modelos/subasta-empresa.php on line 162
+[29-Aug-2018 17:03:31 UTC] PHP Fatal error:  Undefined class constant 'ESTADO_URL_INCORRECTA' in /home/escuderiaservici/public_html/webcalidad/modelos/subasta-empresa.php on line 162
+[29-Aug-2018 17:03:32 UTC] PHP Fatal error:  Undefined class constant 'ESTADO_URL_INCORRECTA' in /home/escuderiaservici/public_html/webcalidad/modelos/subasta-empresa.php on line 162
+[29-Aug-2018 17:03:33 UTC] PHP Fatal error:  Undefined class constant 'ESTADO_URL_INCORRECTA' in /home/escuderiaservici/public_html/webcalidad/modelos/subasta-empresa.php on line 162
+[29-Aug-2018 17:03:34 UTC] PHP Fatal error:  Undefined class constant 'ESTADO_URL_INCORRECTA' in /home/escuderiaservici/public_html/webcalidad/modelos/subasta-empresa.php on line 162
+[29-Aug-2018 18:13:46 UTC] PHP Fatal error:  Undefined class constant 'ESTADO_URL_INCORRECTA' in /home/escuderiaservici/public_html/webcalidad/modelos/subasta-empresa.php on line 162
+[29-Aug-2018 18:13:59 UTC] PHP Fatal error:  Undefined class constant 'ESTADO_URL_INCORRECTA' in /home/escuderiaservici/public_html/webcalidad/modelos/subasta-empresa.php on line 162
+[29-Aug-2018 18:14:20 UTC] PHP Fatal error:  Undefined class constant 'ESTADO_URL_INCORRECTA' in /home/escuderiaservici/public_html/webcalidad/modelos/subasta-empresa.php on line 162
+[29-Aug-2018 18:14:30 UTC] PHP Fatal error:  Undefined class constant 'ESTADO_URL_INCORRECTA' in /home/escuderiaservici/public_html/webcalidad/modelos/subasta-empresa.php on line 162
+[29-Aug-2018 18:14:41 UTC] PHP Fatal error:  Undefined class constant 'ESTADO_URL_INCORRECTA' in /home/escuderiaservici/public_html/webcalidad/modelos/subasta-empresa.php on line 162
+[19-Sep-2018 20:39:57 UTC] PHP Fatal error:  Call to undefined function ExcepcionApi() in /home/escuderiaservici/public_html/webcalidad/modelos/usuarios.php on line 173
+[19-Sep-2018 20:40:08 UTC] PHP Fatal error:  Call to undefined function ExcepcionApi() in /home/escuderiaservici/public_html/webcalidad/modelos/usuarios.php on line 173
+[19-Sep-2018 20:41:42 UTC] PHP Fatal error:  Call to undefined function ExcepcionApi() in /home/escuderiaservici/public_html/webcalidad/modelos/usuarios.php on line 173
+[19-Sep-2018 20:54:53 UTC] PHP Fatal error:  Call to undefined function ExcepcionApi() in /home/escuderiaservici/public_html/webcalidad/modelos/usuarios.php on line 173
+[19-Sep-2018 20:55:04 UTC] PHP Fatal error:  Call to undefined function ExcepcionApi() in /home/escuderiaservici/public_html/webcalidad/modelos/usuarios.php on line 173
+[19-Sep-2018 20:58:01 UTC] PHP Fatal error:  Undefined class constant 'ESTADO_URL_INCORRECTA' in /home/escuderiaservici/public_html/webcalidad/modelos/autos-features.php on line 141
+[19-Sep-2018 20:58:07 UTC] PHP Fatal error:  Undefined class constant 'ESTADO_URL_INCORRECTA' in /home/escuderiaservici/public_html/webcalidad/modelos/autos-features.php on line 141
+[19-Sep-2018 20:58:14 UTC] PHP Fatal error:  Undefined class constant 'ESTADO_URL_INCORRECTA' in /home/escuderiaservici/public_html/webcalidad/modelos/autos-features.php on line 141
+[07-Nov-2018 15:40:02 UTC] PHP Fatal error:  Undefined class constant 'ESTADO_URL_INCORRECTA' in /home/escuderiaservici/public_html/webcalidad/modelos/autos-features.php on line 141
+[07-Nov-2018 15:40:08 UTC] PHP Fatal error:  Undefined class constant 'ESTADO_URL_INCORRECTA' in /home/escuderiaservici/public_html/webcalidad/modelos/autos-features.php on line 141
+[07-Nov-2018 15:40:19 UTC] PHP Fatal error:  Undefined class constant 'ESTADO_URL_INCORRECTA' in /home/escuderiaservici/public_html/webcalidad/modelos/autos-features.php on line 141
+[15-Feb-2019 03:43:17 UTC] PHP Fatal error:  Undefined class constant 'ESTADO_URL_INCORRECTA' in /home/escuderiaservici/public_html/webcalidad/modelos/autos-features.php on line 141
+[15-Feb-2019 03:43:22 UTC] PHP Fatal error:  Undefined class constant 'ESTADO_URL_INCORRECTA' in /home/escuderiaservici/public_html/webcalidad/modelos/autos-features.php on line 141
+[15-Feb-2019 03:43:39 UTC] PHP Fatal error:  Undefined class constant 'ESTADO_URL_INCORRECTA' in /home/escuderiaservici/public_html/webcalidad/modelos/autos-features.php on line 141

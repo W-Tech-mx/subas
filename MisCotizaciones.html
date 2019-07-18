@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="en">
+<head>
+<style>
+
+
+div#Amarillo {
+    background-color: yellow;
+}
+
+div#Rosa {
+    background-color: pink;
+}
+div#Azul {
+    background-color: lightblue;
+}
+div#Verde {
+    background-color: green;
+}
+div#Rojo {
+    background-color: red;
+}
+#grdMisVehiculos div{
+  float:left;
+}
+#grdMisVehiculos{
+  float:left;
+  background-color:#F0F0F0;
+  border:1px solid #C8C8C8;
+  clear:both;
+  height:auto;
+  width: 1024px;
+  margin:30px calc(50% - 512px) 0;
+  font-size: 0.8em;
+}
+#grdMisVehiculos > div:first-child {
+  color: #ffffff;
+  height: 40px;
+  line-height: 40px;
+  width: 100%;
+  background-color: rgb(30,35,40); 
+}
+#grdMisVehiculos > div:first-child > div:nth-child(1) {
+  height: 40px;
+  width: 100px;
+}
+#grdMisVehiculos > div:first-child > div:nth-child(5) {
+  height: 40px;
+  width: 100px;
+}
+#grdMisVehiculos > div:first-child > div {
+  float:left;
+  height: 40px;
+  width: calc((100% - 240px) / 5);
+  text-align: center;
+}
+#grdMisVehiculos > div:first-child > div:nth-child(6) {
+  text-align: right;
+    padding-right: 20px;
+}
+#grdMisVehiculos > div:not(:first-child) {
+  min-height: 80px;
+  padding: 5px 0;
+  width: 100%;
+}
+#grdMisVehiculos > div:not(:first-child) > div:nth-child(1) {
+  width: 100px;
+}
+#grdMisVehiculos > div:not(:first-child) > div:nth-child(1) > input[type="checkbox"] {
+  float: none;
+  margin: 0 auto;
+}
+
+#grdMisVehiculos > div:not(:first-child) > div:nth-child(5) > img {
+  width: 40px;
+  height: auto;
+  margin: 0 30px ;
+}
+#grdMisVehiculos > div:not(:first-child) > div:nth-child(6){
+  text-align:right;
+}
+/*#grdMisVehiculos:not(.grdMisVehiculos2) > div:not(:first-child) > div:nth-child(7) > button{
+  height:30px;
+  width:80px;
+  line-height:30px;
+  color:#ffffff;
+  background-color:#1D93D0;
+  float:none;
+  margin: 0 auto;
+  border:none;
+}*/
+#grdMisVehiculos > div:not(:first-child) > div:not(.modal) {
+  width: calc((100% - 240px) / 5);
+}
+#grdMisVehiculos > div:not(:first-child) .center-btn > button{
+  margin: 0 calc(50% - 40px);
+}
+/*#grdMisVehiculos:not(.grdMisVehiculos2) > div:not(:first-child) > div > img {
+  float: none;
+  margin: 0 auto;
+  cursor: pointer;
+  width: 30px;
+  fill:#1D93D0;
+}*/
+#grdMisVehiculos > div:not(:first-child) > div:nth-child(odd) {
+}
+#grdMisVehiculos > div:not(:first-child):nth-child(even) {
+  background-color: #ffffff;
+}
+#grdMisVehiculos > div:not(:first-child) > div:nth-child(5) {
+  width: 100px;
+}
+#grdMisVehiculos > div:not(:first-child) > div:first-child{
+  margin-top:10px;
+  overflow: hidden;
+  height:65px;
+  width:100px;
+}
+#grdMisVehiculos > div:not(:first-child) > div > img{
+  width: 90%;
+  margin: 0 5%;
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-position: 50% 50%;
+}
+#grdMisVehiculos .modal{
+  height:460px !important;
+}
+#grdMisVehiculos .modal > .modal-content > h4{
+  height:40px;
+  width:100%; 
+}
+#grdMisVehiculos .modal > .modal-content > div:not(h4){
+  height:150px;
+  width:30%;
+  margin: 10px 1.65%; 
+}
+  #grdMisVehiculos .modal > .modal-content > div:not(h4) > img{
+    height:100%;
+    width:100%;
+  }
+
+</style>
+  	<meta charset="utf-8">
+  	<link href="css/styles.css" rel="stylesheet"  />
+  	<link href="css/index.css" rel="stylesheet"/>
+  	 <link href="css/jquery-ui.css" rel="stylesheet" />
+  	 <link href="https://fonts.googleapis.com/css?family=Oswald:300,400,700&amp;subset=latin-ext" rel="stylesheet"/>
+  	 <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700" rel="stylesheet"/>
+  <link href="css/font-awesome.css" rel="stylesheet"/>
+  	<script src="https://code.jquery.com/jquery.js"></script>
+  	 <script type="text/javascript" src="scripts/jquery-1.12.4.js"></script>
+  <script type="text/javascript" src="scripts/jquery-ui.js"></script>
+  <script type="text/javascript" src="scripts/jssor.slider-22.2.8.debug.js" ></script>
+
+    
+  <script type="text/javascript" src="scripts/request.js"></script>
+    
+    
+  <script type="text/javascript" src="scripts/MisCotizaciones.js"></script>
+    
+  <script type="text/javascript" src="scripts/utilidades.js"></script>
+  <script type="text/javascript" src="scripts/entities.js"></script>
+</head>
+<body>
+	<!-- contenedor "absoluto"" del sitio -->
+	<div class="mainContainer">
+		<!-- contenedor del encabezado del sitio --> 
+		<div class="mainHeader">
+		</div>	
+		<!-- contenedor del cuerpo principal del sitio -->
+		<div class="mainBody">
+			
+		</div>
+
+		
+	</div>
+	
+	<div class="modalWindow">
+	</div>
+</body>
+
+
+
